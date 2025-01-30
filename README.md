@@ -1,1 +1,1 @@
-# MLops-project
+# Project Template
